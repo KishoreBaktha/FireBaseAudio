@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1081311110831",
+    "firebase_url": "https://fir-audio-38d58.firebaseio.com",
+    "project_id": "fir-audio-38d58",
+    "storage_bucket": "fir-audio-38d58.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1081311110831:android:289f0016f5886e46",
+        "android_client_info": {
+          "package_name": "com.example.kishorebaktha.firebaseaudio"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1081311110831-58j9v7vkng0vd5l09h87u92oel7bhqh6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.kishorebaktha.firebaseaudio",
+            "certificate_hash": "99470057071ca0531fee2b67402591158a15158e"
+          }
+        },
+        {
+          "client_id": "1081311110831-63ac3fj7gfobgcfdisu100f1fli5hdkp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjemDSjAuz2m3dWd9vwtyc9jZuJsbvBwE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1081311110831-63ac3fj7gfobgcfdisu100f1fli5hdkp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
